@@ -9,6 +9,10 @@ in_menu: true
   </div>
 
   <div>
+    <a href="bbb.html">lien !</a>
+  </div>
+
+  <div>
     <h1>Le 30 juin et le 7 juillet, <br />votez NOM Prénom !</h1>
   </div>
 </header>
