@@ -1,6 +1,6 @@
 ---
 title: "bbb"
-order: 2
+order: 1
 in_menu: true
 ---
 Ceci est un test ! 
